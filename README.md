@@ -148,6 +148,41 @@ The notebook provides:
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
+## 📬 Connect With Me
+
+I'm actively learning data science and documenting the journey. Let's connect and learn together!
+
+**Professional:**
+- 💼 **LinkedIn:** [linkedin.com/in/akshata-jadhav-5b5611344](https://linkedin.com/in/akshata-jadhav-5b5611344)
+- 💻 **GitHub:** [@AkshataJv](https://github.com/AkshataJv)
+- 📧 **Email:** [akshata.mjv@gmail.com]
+
+**Writing:**
+- 📝 **Medium:** [medium.com/@akshata.mjv](https://medium.com/@akshata.mjv)
+
+---
+
+### About Me:
+
+🎓 **BTech in AI & Data Science** at K.K. Wagh Institute, Nashik  
+📚 **Currently Learning:** Python, Machine Learning, Data Analysis, SQL  
+🔭 **Working On:** Real-world data science projects, documenting the learning process  
+💬 **Ask Me About:** My learning journey, data science struggles, project ideas  
+⚡ **Fun Fact:** I Google syntax daily and I'm okay with that
+
+---
+
+### What I Write About:
+
+- The honest (messy) process of learning data science
+- Mistakes I've made and how I fixed them
+- Lessons that tutorials skip
+- Real project challenges and solutions
+
+**Follow along if you're on a similar journey!**
+
+---
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
